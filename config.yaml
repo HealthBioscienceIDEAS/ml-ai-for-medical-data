@@ -9,7 +9,7 @@
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
 carpentry: 'IDEAS'
-varnish:'HealthBioscienceIDEAS/varnish@IDEAS'
+varnish: 'HealthBioscienceIDEAS/varnish@IDEAS'
 sandpaper: 'HealthBioscienceIDEAS/sandpaper@IDEAS'
 
 # Overall title for pages.
