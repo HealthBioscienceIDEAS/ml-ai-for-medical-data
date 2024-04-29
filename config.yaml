@@ -8,10 +8,12 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: 'incubator'
+carpentry: 'IDEAS'
+varnish:'HealthBioscienceIDEAS/varnish@IDEAS'
+sandpaper: 'HealthBioscienceIDEAS/sandpaper@IDEAS'
 
 # Overall title for pages.
-title: 'Lesson Title'
+title: 'Machine Learning and AI for Medical Data'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2024-04-29'
@@ -27,7 +29,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/davecash75/ml-ai-for-medical-data'
+source: 'https://github.com/HealthBioscienceIDEAS/ml-ai-for-medical-data'
 
 # Default branch of your lesson
 branch: 'main'
