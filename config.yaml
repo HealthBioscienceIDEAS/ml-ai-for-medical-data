@@ -9,8 +9,6 @@
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
 carpentry: 'IDEAS'
-varnish: 'HealthBioscienceIDEAS/varnish@IDEAS'
-sandpaper: 'HealthBioscienceIDEAS/sandpaper@IDEAS'
 
 # Overall title for pages.
 title: 'Machine Learning and AI for Medical Data'
@@ -60,17 +58,24 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
+- first-ml-algorithms.Rmd
+- loss-and-optimization.Rmd
+- regularization.Rmd
+- practical-tabular-data.Rmd
+- support-vector-machines.Rmd
+- validation-and-tuning.Rmd
+- practical-imaging-data.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
@@ -78,3 +83,5 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
+varnish: HealthBioscienceIDEAS/varnish@IDEAS
+sandpaper: HealthBioscienceIDEAS/sandpaper@IDEAS
