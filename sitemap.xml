@@ -13,6 +13,9 @@
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/aio.html</loc>
   </url>
   <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/first-ml-algorithms.html</loc>
+  </url>
+  <url>
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/images.html</loc>
   </url>
   <url>
@@ -31,6 +34,9 @@
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/aio.html</loc>
   </url>
   <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/first-ml-algorithms.html</loc>
+  </url>
+  <url>
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/images.html</loc>
   </url>
   <url>
@@ -46,10 +52,28 @@
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/key-points.html</loc>
   </url>
   <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/loss-and-optimization.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/practical-imaging-data.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/practical-tabular-data.html</loc>
+  </url>
+  <url>
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/regularization.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/support-vector-machines.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor/validation-and-tuning.html</loc>
   </url>
   <url>
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/instructor-notes.html</loc>
@@ -61,9 +85,27 @@
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/key-points.html</loc>
   </url>
   <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/loss-and-optimization.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/practical-imaging-data.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/practical-tabular-data.html</loc>
+  </url>
+  <url>
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/profiles.html</loc>
   </url>
   <url>
     <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/regularization.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/support-vector-machines.html</loc>
+  </url>
+  <url>
+    <loc>https://HealthBioscienceIDEAS.github.io/ml-ai-for-medical-data/validation-and-tuning.html</loc>
   </url>
 </urlset>
